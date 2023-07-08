@@ -1,5 +1,21 @@
 ### Seeking refuge? The potential of urban climate shelters to address intersecting vulnerabilities
-- *Authors*: Ana T. Amorim-Maia, Isabelle Anguelovski , James Connolly , Eric Chu
-- *Year*:
-- *Abstract*:
+- *Authors*: Ana T. Amorim-Maia, Isabelle Anguelovski, James Connolly, Eric Chu
+- *Year*: 2023
+- *Abstract*: Climate shelters are critical urban infrastructures to support adaptation to extreme weather. They offer spaces – e.g., parks, libraries, and civic centers – where residents can take refuge during episodes of extreme temperatures. With over 200 public spaces designated as “Climate Shelters”, Barcelona (Spain) serves as an emblematic
+example of whether these emerging spaces are meeting the needs, expectations, and everyday experiences of the most vulnerable residents. By applying an intersectional climate justice perspective and mixed-method approaches rooted in a survey of a particularly climate-exposed working-class neighborhood (La Prosperitat), we found that the intersecting vulnerabilities of marginalized populations remain poorly addressed, largely due to differences in access to coping mechanisms that overlap with intersecting social positions, exacerbating vulnerability to climate risks. We also found that housing inadequacy and energy poverty experienced by low income residents and those originally from Global South countries made them the most affected and least able to cope with extreme temperatures. Women were also more affected by climate impacts and more concerned
+about current and future risks. We argue that unequal lived experiences of thermal (dis)comforts inform heat and cold inequalities, which, in turn, are attributed to intersecting social positions and structural vulnerabilities. These uneven lived experiences shape – and are reshaped by – limited adaptive capacity, culturally inappropriate
+approaches, and insufficiently inclusive public spaces, thus complicating an equity-driven provision of refuge infrastructures. Results call for developing refuge infrastructures that address the intersecting social and climate needs of residents who need them the most.
 - *Lesson learned*: 
+
+
+
+### Urban heat resilience at the time of global warming: evaluating the impact of the urban parks on outdoor thermal comfort
+- *Authors*: Farshid Aram, Ebrahim Solgi, Ester Higueras Garcia and Amir Mosavi
+- *Year*: 2020
+- *Abstract*: Background: In densely populated urban centers, increased air temperature due to urban heat island (UHI) effect can undermine the thermal comfort and health of citizens. Research has shown that large urban parks can mitigate the effect of UHIs and improve thermal comfort, especially in the warmer months of the year when temperature changes are more noticeable. This study investigated the cooling effect intensity (CEI) of the Retiro Park in the center of Madrid at three different distances from its southern edge and the impact of this cooling effect on thermal comfort from physiological and psychological perspectives. This investigation was performed by measuring microclimate data and conducting a survey simultaneously during the summer days.
+Results: The results showed that the CEI of the park varies with distance from its edge. Because of this effect, air temperature within the 130 m and 280 m distance of the park was, respectively, 1.6 °C and 0.9 °C lower than the temperature at the 520 m distance (the nearest heat island). After examining the effect of the park in terms of physiological equivalent temperature (PET), it was found that the PET at the 130 m and 280 m distance of the park was 9.3% and 5.4% less than the PET in the heat island domain. More than 81% of the respondents (in all three areas) had a mental image of the park as the place where they would experience the highest level of outdoor thermal comfort, and this rate was higher in the areas closer to the park. The analysis of citizens’ responses about perceived thermal comfort (PTC) showed that citizens in areas with higher CEI had perceived a higher degree of thermal comfort from the psychological perspective.
+Conclusion: This study demonstrates the significant role of large urban parks located in the core of the populated cities in providing thermal comfort for citizens from both physiological and psychological perspectives. Additionally, the results of this study demonstrated that among the environmental (natural and artificial) factors around the park (topography, urban structure, etc.), the aspect ratio has the greatest impact on thermal comfort.
+- *Lesson learned*:
+
+
+
