@@ -1,3 +1,4 @@
+## About Barcelona's climate shelters
 ### Seeking refuge? The potential of urban climate shelters to address intersecting vulnerabilities
 - *Authors*: Ana T. Amorim-Maia, Isabelle Anguelovski, James Connolly, Eric Chu
 - *Year*: 2023
@@ -5,7 +6,24 @@
 - *Lesson learned*: it is important to understand whether climate shelters in Barcelona meet the needs of all residents, including the most marginalized people (in this case people living in the La Prosperitat neighborhood), so we can be sure that there is intersectional climate justice. There are intersecting vulnerabilities due to gender, class, migrant status, and other factors, which shape thermal (dis)comfort experiences and could be a reason for heat and cold inequalities. There should be attention to developing more equitable and inclusive adaptation strategies in order to avoid problems of distributive, procedural, and recognition justice. Every citizen should be aware of the existence of climate shelters, which should be present in all areas of the city
 
 
+### RESILIENT AND SUSTAINABLE CITIES: RESEARCH, POLICY AND PRACTICE - Chapter 16 - For a close and livable public space: four proposals in Barcelona 
+(Pages 295-304)
+- *Authors*: Miguel Y. Cárdenas Mayorga and Maria Pia Gravante Fontana
+- *Year*: 2023
+- *Abstract*: The decarbonization and humanization of cities require actions to promote active mobility and improve public space. Strategic responses to socio-spatial inequality and urban environmental imbalance must be proposed. Proposals in Barcelona, such as the systematization of the so-called “superblocks” are already well recognized. However, there are other innovative studies and projects that introduce new approaches, methods, and instruments that promote neighborhood life and urban proximity: The “Civic axes for stitching neighborhoods” for Meridiana Ave; the “Network of neighborhood centralities” for the Poblenou-22@ school network; the “Urban strip to make neighborhoods” for Perú-Paraguay street, and the “Climate shelter school network strategy” for the microclimatic management of Barcelona. Studies that exemplify how the use of operational cartographic atlases and models that analyze reality, with parameters and indicators to identify urban patterns, are a useful tool for urban design.
+- *Lesson learned*:
 
+
+
+### Environmental quality characterization of public schools transformed into climate shelters in Barcelona: A pilot innovative study
+https://www.researchgate.net/publication/354081075_Environmental_quality_characterization_of_public_schools_transformed_into_climate_shelters_in_Barcelona_A_pilot_innovative_study   (full text requested, waiting for the answer)
+- *Authors*: 
+- *Year*: 
+- *Abstract*:
+- *Lesson learned*:
+
+
+## Others
 ### Urban heat resilience at the time of global warming: evaluating the impact of the urban parks on outdoor thermal comfort
 - *Authors*: Farshid Aram, Ebrahim Solgi, Ester Higueras Garcia and Amir Mosavi
 - *Year*: 2020
@@ -13,9 +31,3 @@
 Results: The results showed that the CEI of the park varies with distance from its edge. Because of this effect, air temperature within the 130 m and 280 m distance of the park was, respectively, 1.6 °C and 0.9 °C lower than the temperature at the 520 m distance (the nearest heat island). After examining the effect of the park in terms of physiological equivalent temperature (PET), it was found that the PET at the 130 m and 280 m distance of the park was 9.3% and 5.4% less than the PET in the heat island domain. More than 81% of the respondents (in all three areas) had a mental image of the park as the place where they would experience the highest level of outdoor thermal comfort, and this rate was higher in the areas closer to the park. The analysis of citizens’ responses about perceived thermal comfort (PTC) showed that citizens in areas with higher CEI had perceived a higher degree of thermal comfort from the psychological perspective.
 Conclusion: This study demonstrates the significant role of large urban parks located in the core of the populated cities in providing thermal comfort for citizens from both physiological and psychological perspectives. Additionally, the results of this study demonstrated that among the environmental (natural and artificial) factors around the park (topography, urban structure, etc.), the aspect ratio has the greatest impact on thermal comfort.
 - *Lesson learned*:
-
-- 
-
-
-
-
