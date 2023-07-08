@@ -11,7 +11,7 @@
 - *Authors*: Miguel Y. Cárdenas Mayorga and Maria Pia Gravante Fontana
 - *Year*: 2023
 - *Abstract*: The decarbonization and humanization of cities require actions to promote active mobility and improve public space. Strategic responses to socio-spatial inequality and urban environmental imbalance must be proposed. Proposals in Barcelona, such as the systematization of the so-called “superblocks” are already well recognized. However, there are other innovative studies and projects that introduce new approaches, methods, and instruments that promote neighborhood life and urban proximity: The “Civic axes for stitching neighborhoods” for Meridiana Ave; the “Network of neighborhood centralities” for the Poblenou-22@ school network; the “Urban strip to make neighborhoods” for Perú-Paraguay street, and the “Climate shelter school network strategy” for the microclimatic management of Barcelona. Studies that exemplify how the use of operational cartographic atlases and models that analyze reality, with parameters and indicators to identify urban patterns, are a useful tool for urban design.
-- *Lesson learned*:
+- *Lesson learned*: It is important to promote more environmentally livable urban environments and streets, as well as  to establish policy and technical solutions that bring balance and spatial justice to the city. ....
 
 
 
