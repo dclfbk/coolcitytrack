@@ -33,13 +33,18 @@ Using a mobile human-biometeorological weather station (MaRTy cart), we register
 
 
 ## Others
-### Urban heat resilience at the time of global warming: evaluating the impact of the urban parks on outdoor thermal comfort
+### ✅ Urban heat resilience at the time of global warming: evaluating the impact of the urban parks on outdoor thermal comfort
 - *Authors*: Farshid Aram, Ebrahim Solgi, Ester Higueras Garcia and Amir Mosavi
 - *Year*: 2020
 - *Abstract*: Background: In densely populated urban centers, increased air temperature due to urban heat island (UHI) effect can undermine the thermal comfort and health of citizens. Research has shown that large urban parks can mitigate the effect of UHIs and improve thermal comfort, especially in the warmer months of the year when temperature changes are more noticeable. This study investigated the cooling effect intensity (CEI) of the Retiro Park in the center of Madrid at three different distances from its southern edge and the impact of this cooling effect on thermal comfort from physiological and psychological perspectives. This investigation was performed by measuring microclimate data and conducting a survey simultaneously during the summer days.
 Results: The results showed that the CEI of the park varies with distance from its edge. Because of this effect, air temperature within the 130 m and 280 m distance of the park was, respectively, 1.6 °C and 0.9 °C lower than the temperature at the 520 m distance (the nearest heat island). After examining the effect of the park in terms of physiological equivalent temperature (PET), it was found that the PET at the 130 m and 280 m distance of the park was 9.3% and 5.4% less than the PET in the heat island domain. More than 81% of the respondents (in all three areas) had a mental image of the park as the place where they would experience the highest level of outdoor thermal comfort, and this rate was higher in the areas closer to the park. The analysis of citizens’ responses about perceived thermal comfort (PTC) showed that citizens in areas with higher CEI had perceived a higher degree of thermal comfort from the psychological perspective.
 Conclusion: This study demonstrates the significant role of large urban parks located in the core of the populated cities in providing thermal comfort for citizens from both physiological and psychological perspectives. Additionally, the results of this study demonstrated that among the environmental (natural and artificial) factors around the park (topography, urban structure, etc.), the aspect ratio has the greatest impact on thermal comfort.
-- *Lesson learned*:
+- *Lesson learned*: large urban parks (>10 ha) generates a cooling effect that can reduce the temperature of their surrounding area, this effect  diminishes
+at the distance of 520 m, which falls in the domain of a heat island. Hence, the cooling effect intensity (CEI) of the park is higher in the areas closer to the park. But the dimension is not the only relevant aspect, there are other natural and artificial factors around the park that have an important  role in park cooling effect, such as:
+  - Urban configuration: organic urban structures can improve airflow and so reduce air temperatures
+  - Topography: an urban area with a lower elevation is warmer, as a result, the distance of the cooling effect in the urban fabric is less than in areas with higher elevation.
+  - Aspect ratio (ratio between the height and the width of the buildings and streets in the urban area): is an influential element on perceived thermal comfort
+ Any increase or decrease in the CEI  will influence the level of thermal comfort of citizens who live or work near the park from both physiological and psychological perspectives. If you are within 520m of the park, you enjoy higher physiological thermal comfort. Parks are seen by people as places to find thermal comfort, in fact they generate thermal comfort for citizens from both physiological and psychological perspectives. If you are in the areas with higher CEI then your degree of thermal comfort from a psychological point of view will be higher
 
 
 
