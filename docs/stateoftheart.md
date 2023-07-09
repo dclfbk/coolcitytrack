@@ -15,7 +15,7 @@
 
 
 
-### Environmental quality characterization of public schools transformed into climate shelters in Barcelona: A pilot innovative study
+### ❓Environmental quality characterization of public schools transformed into climate shelters in Barcelona: A pilot innovative study
 https://www.researchgate.net/publication/354081075_Environmental_quality_characterization_of_public_schools_transformed_into_climate_shelters_in_Barcelona_A_pilot_innovative_study   (full text requested, waiting for the answer)
 - *Authors*: 
 - *Year*: 
@@ -23,7 +23,7 @@ https://www.researchgate.net/publication/354081075_Environmental_quality_charact
 - *Lesson learned*:
 
 
-### Evaluating the impact of urban parks on the thermal comfort during a heat wave episode in a Mediterranean city
+### ❓Evaluating the impact of urban parks on the thermal comfort during a heat wave episode in a Mediterranean city
 https://meetingorganizer.copernicus.org/EGU23/EGU23-1367.html (only abstract available)
 - *Authors*: Ricard Segura, Carme Estruch, Alba Badia, Sergi Ventura, E. Scott Krayenhoff, and Gara Villalba
 - *Year*: 2023
@@ -44,9 +44,11 @@ Conclusion: This study demonstrates the significant role of large urban parks lo
 
 
  ### Capacity of Urban Green Infrastructure Spaces to Ameliorate Heat Wave Impacts in Mediterranean Compact Cities: Case Study of Granada (South-Eastern Spain)
-- *Authors*: 
-- *Year*: 
-- *Abstract*:
+- *Authors*: Manuel José Delgado-Capel, Paloma Cariñanos, and Marcos Escudero-Viñolo
+- *Year*: 2023
+- *Abstract*: Heat wave episodes are becoming more frequent and severe worldwide, especially in areas such as the Mediterranean region. This study is aimed at assessing the impact of heat waves in an urban environment and the ways areas of urban green infrastructure (UGI) can play key roles in moderating the impacts of these high-temperature events. We analyzed land surface temperature (LST) and normalized difference vegetation index (NDVI) data retrieved from Landsat 8/9 satellite images. These data were recorded during heat wave episodes from 2017 to 2022 in a representative Mediterranean medium-sized compact city. We carried out a correlation analysis between LST and
+NDVI per area type and as individual units to assess how UGI elements can contribute to the cooling of the urban matrix during heat wave episodes. Those small green spaces distributed throughout the city, defined as “Other” areas, showed stronger negative correlation. These spaces are particularly relevant for Mediterranean cities, where highly limited space in city centers hinders the possibility of having larger-surface UGI elements. The study highlights the need for further research into the
+composition of those small public green spaces to understand how their components enhance the city’s cooling capacity given the climate conditions and water scarcity in the Mediterranean region.
 - *Lesson learned*:
 
 
