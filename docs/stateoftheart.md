@@ -44,8 +44,8 @@ at the distance of 520 m, which falls in the domain of a heat island. Hence, the
   - Urban configuration: organic urban structures can improve airflow and so reduce air temperatures
   - Topography: an urban area with a lower elevation is warmer, as a result, the distance of the cooling effect in the urban fabric is less than in areas with higher elevation.
   - Aspect ratio (ratio between the height and the width of the buildings and streets in the urban area): is an influential element on perceived thermal comfort
-  
-Any increase or decrease in the CEI  will influence the level of thermal comfort of citizens who live or work near the park from both physiological and psychological perspectives. If you are within 520m of the park, you enjoy higher physiological thermal comfort. Parks are seen by people as places to find thermal comfort, in fact they generate thermal comfort for citizens from both physiological and psychological perspectives. If you are in the areas with higher CEI then your degree of thermal comfort from a psychological point of view will be higher
+
+  Any increase or decrease in the CEI  will influence the level of thermal comfort of citizens who live or work near the park from both physiological and psychological perspectives. If you are within 520m of the park, you enjoy higher physiological thermal comfort. Parks are seen by people as places to find thermal comfort, in fact they generate thermal comfort for citizens from both physiological and psychological perspectives. If you are in the areas with higher CEI then your degree of thermal comfort from a psychological point of view will be higher
 
 
 
