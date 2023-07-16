@@ -98,5 +98,9 @@ UHI effects when initiating new building projects or when adjusting current ones
 - *Lesson learned*:
 
 
-
+### Estimating the Cooling Effect of Pocket Green Space in High Density Urban Areas in Shanghai, China
+- *Authors*: Caiyan Wu, Junxiang Li, Chunfang Wang , Conghe Song , Dagmar Haase, Jürgen Breuste 6 and Maros Finka 
+- *Year*: 2021
+- *Abstract*: Recently, pocket green spaces (PGS), i.e., small green spaces, have attracted growing attention for their various ecological and social services. As a crucial part of urban green spaces in high-density urban areas, PGS facilitates recreation and relaxation for neighborhoods and thus improves the livability of cities at the local scale. However, whether and how the PGS cools the urban heat island effect is still unclear. This research was performed in the highly developed areas of the city of Shanghai during hot summer daytime. We applied a set of cooling effect indicators to estimate the cooling extent, cooling intensity, and cooling efficiency of PGS. We further examined whether and how landscape features within and surrounding the PGS influence its cooling effects. The results showed that 90% of PGS are cooler than their surroundings. Among the landscape features, the land surface temperature of PGS logarithmically decreased with its area, and the maximum local cool island intensity and maximum cooling area logarithmically increased with the area of PGS. The vegetation types and their composition within the PGS also influenced their surface temperature and the cooling effect. The PGS dominated by tree-shrub-grass showed the highest cooling efficiency. The surrounding landscape patterns, especially the patch density and the landscape shape index, influence the cooling effect of PGS at both class and landscape levels. These findings add new knowledge on factors influencing the cooling effect of PGS, and provide the biophysical theoretical basis for developing nature-based cooling strategies for urban landscape designers and planners.
+- *Lesson learned*:
 
