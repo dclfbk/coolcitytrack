@@ -14,6 +14,29 @@
 - *Lesson learned*: In the past, public spaces were designed with the idea that they were only surfaces for the circulation of the private car; now it is important to promote more environmentally livable urban environments and streets, as well as  to establish policy and technical solutions that bring balance and spatial justice to the city. It is necessary to promote more livable and appropriate urban spaces for citizens, ensuring better accessibility, habitability, and centrality through an efficacious public space. For this reason, there are four projects in Barcelona: Civic axes to stitch the neighborhoods, Network of neighborhood centralities, Urban strip to make neighborhoods, Climate shelter school network strategy. By focusing on citizens and the environment in which they live it is possible to renew urban planning. In the project "Climate shelter school network strategy", open data is used to try to link schools, educational facilities, public space, sustainable mobility, and socio-environmental conditions in order to facilitate city knowledge and promote urban improvement projects. The project aims to improve the city of Barcelona (innovating from the existing): the city is a system composed of many parts working together. Schools are an important part of this system and connect with the streets, buildings, trees, water, and air. In this way, schools can help create a healthier and more pleasant environment for all citizens by promoting sustainable mobility, public green spaces, and active citizen participation. The project is part of the urban model being developed for Barcelona to respond to climate change and the Climate Plan
 
 
+### ✅ Climate Shelters Network
+https://www.barcelona.cat/barcelona-pel-clima/en/barcelona-responds/specific-actions/climate-shelters-network
+A climate shelter space has the following characteristics:
+  - It can be indoors or outdoors.
+  - The indoor spaces are activated all year round so they can be used to cope with both the heat and the cold.
+  - The outdoor spaces are only active during the preventive phase for heatwaves, which is from 15 June to 15 September.
+  - They are spaces that provide the population with thermal comfort, while at the same time maintaining other uses and functions.
+  - In indoor spaces, it is recommended that a set temperature of 27ºC is maintained in the summer and 19ºC in the winter.
+  - They are especially designed for people who are vulnerable to the heat and the cold (babies, those aged over 75 years and people with a chronic illness or those who are less well-off, etc.)
+  - It is NOT for people that need medical care, who must go to the appropriate health centre.
+  - They must be easily accessible and safe, and provide **comfortable rest areas** (chairs and benches) and **free water**.
+  - The urban parks, which form part of this network, have **abundant urban greenery** (surface area > 0.5 ha) and an **NDVI index** (which indicates the quality of the vegetation) **> 0.4**, they are **accessible** to people with reduced mobility, and they have fountains and seats.
+  - Areas designated as climate shelters are **free**.
+
+
+### Barcelona green infrastructure and biodiversity plan 2020
+https://climate-adapt.eea.europa.eu/en/metadata/case-studies/barcelona-trees-tempering-the-mediterranean-city-climate/11302639.pdf 
+
+
+### Climate emergency action plan 2030
+https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/123712/1/Climate_emergency_action_plan_2030_eng.pdf
+
+
 
 ### ❓Environmental quality characterization of public schools transformed into climate shelters in Barcelona: A pilot innovative study
 https://www.researchgate.net/publication/354081075_Environmental_quality_characterization_of_public_schools_transformed_into_climate_shelters_in_Barcelona_A_pilot_innovative_study   (full text requested, waiting for the answer)
