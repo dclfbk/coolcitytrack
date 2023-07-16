@@ -89,21 +89,14 @@ Methods: We have tested the effectiveness of cool surfaces and urban forestry as
 - *Lesson learned*: Cities can implement mitigation and adaptation strategies to cope with climate change. In the case of urban forestation, a significant decrease in temperature has been observed: shade (acting as a filter for solar radiation) and evapotranspiration (plants becoming a kind of “adsorbing sink” for atmospheric heat) cool the area. We should consider trees and green areas as real and proper public health infrastructures. Hence vegatation is very important because it represents a strategy for adaptation and mitigation to climate change that ensures improved air quality, leading to psychological, physical and social benefits.
 
 
-
 ### Addressing the Urban Heat Islands Effect: A Cross-Country Assessment of the Role of Green Infrastructure 
-- *Authors*: 
-- *Year*: 
-- *Abstract*:
+- *Authors*: Walter Leal Filho, Franziska Wolf, Ricardo Castro-Díaz, Chunlan Li, Vincent N. Ojeh, Nestor Gutiérrez, Gustavo J. Nagy, Stevan Savi´c, Claudia E. Natenzon, Abul Quasem Al-Amin, Marija Maruna and Juliane Bönecke
+- *Year*: 2021
+- *Abstract*: The Urban Heat Islands (UHI) effect is a microclimatic phenomenon that especially affects urban areas. It is associated with significant temperature increases in the local microclimate, and may amplify heat waves. Due to their intensity, UHI causes not only thermal discomfort, but also reductions in the levels of life quality. This paper reviews the important role of green infrastructure as a means through which the intensity of UHI may be reduced, along with their negative impact on
+human comfort and wellbeing. Apart from a comprehensive review of the available literature, the paper reports on an analysis of case studies in a set of 14 cities in 13 countries representing various geographical regions and climate zones. The results obtained suggest that whereas UHI is a common phenomenon, green infrastructure in urban areas may under some conditions ameliorate their impacts. In addition, the study revealed that the scope and impacts of UHI are not uniform: depending on peculiarities of urban morphologies, they pose different challenges linked to the microclimate peculiar to each city. The implications of this paper are threefold. Firstly, it reiterates the complex interrelations of UHIs, heat waves and climate change. Secondly, it outlines the fact that keeping and increasing urban green resources leads to additional various benefits that may directly or indirectly reduce the impacts of UHI. Finally, the paper reiterates the need for city planners to pay more attention to possible
+UHI effects when initiating new building projects or when adjusting current ones.
 - *Lesson learned*:
 
 
 
 
-### Nature-based approaches to managing climate change impacts in cities
-- *Authors*: Sarah E. Hobbie and Nancy B. Grimm
-- *Year*: 2020
-- *Abstract*: Managing and adapting to climate change in urban areas will become increasingly important as urban populations grow, especially because unique features of cities amplify climate change impacts. High impervious cover exacerbates impacts of climate warming through urban heat island effects and of heavy rainfall by magnifying runoff and flooding. Concentration of human settlements along rivers and coastal zones increases exposure of people and infrastructure to climate change hazards, often
-disproportionately affecting those who are least prepared. Nature-based strategies (NBS), which use living organisms, soils and sediments, and/or landscape features to reduce climate change hazards, hold promise as being more flexible, multi-functional and adaptable to an uncertain and non-stationary climate future than traditional approaches. Nevertheless, future research should address the effectiveness of NBS for reducing climate change impacts and whether they can be implemented at scales appropriate to climate change hazards and impacts. Further, there is a need for accurate and comprehensive cost–benefit analyses that consider disservices and
-co-benefits, relative to grey alternatives, and how costs and benefits are distributed across different communities. NBS are most likely to be effective and fair when they match the scale of the challenge, are implemented with input from diverse voices and are appropriate to specific social, cultural, ecological and technological contexts.
-This article is part of the theme issue ‘Climate change and ecosystems: threats, opportunities and solutions’
-- *Lesson learned*:
