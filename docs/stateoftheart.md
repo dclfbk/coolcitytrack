@@ -15,7 +15,7 @@
 
 
 ### ✅ Climate Shelters Network
-https://www.barcelona.cat/barcelona-pel-clima/en/barcelona-responds/specific-actions/climate-shelters-network
+https://www.barcelona.cat/barcelona-pel-clima/en/barcelona-responds/specific-actions/climate-shelters-network  
 A climate shelter space has the following characteristics:
   - It can be indoors or outdoors.
   - The indoor spaces are activated all year round so they can be used to cope with both the heat and the cold.
