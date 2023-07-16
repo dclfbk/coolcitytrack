@@ -29,11 +29,11 @@ A climate shelter space has the following characteristics:
   - Areas designated as climate shelters are **free**.
 
 
-### Barcelona green infrastructure and biodiversity plan 2020
+### ❓Barcelona green infrastructure and biodiversity plan 2020
 https://climate-adapt.eea.europa.eu/en/metadata/case-studies/barcelona-trees-tempering-the-mediterranean-city-climate/11302639.pdf 
 
 
-### Climate emergency action plan 2030
+### ❓Climate emergency action plan 2030
 https://bcnroc.ajuntament.barcelona.cat/jspui/bitstream/11703/123712/1/Climate_emergency_action_plan_2030_eng.pdf
 
 
