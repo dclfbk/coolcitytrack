@@ -49,14 +49,13 @@ at the distance of 520 m, which falls in the domain of a heat island. Hence, the
 
 
 
- ### Capacity of Urban Green Infrastructure Spaces to Ameliorate Heat Wave Impacts in Mediterranean Compact Cities: Case Study of Granada (South-Eastern Spain)
+ ### ✅ Capacity of Urban Green Infrastructure Spaces to Ameliorate Heat Wave Impacts in Mediterranean Compact Cities: Case Study of Granada (South-Eastern Spain)
 - *Authors*: Manuel José Delgado-Capel, Paloma Cariñanos, and Marcos Escudero-Viñolo
 - *Year*: 2023
 - *Abstract*: Heat wave episodes are becoming more frequent and severe worldwide, especially in areas such as the Mediterranean region. This study is aimed at assessing the impact of heat waves in an urban environment and the ways areas of urban green infrastructure (UGI) can play key roles in moderating the impacts of these high-temperature events. We analyzed land surface temperature (LST) and normalized difference vegetation index (NDVI) data retrieved from Landsat 8/9 satellite images. These data were recorded during heat wave episodes from 2017 to 2022 in a representative Mediterranean medium-sized compact city. We carried out a correlation analysis between LST and
 NDVI per area type and as individual units to assess how UGI elements can contribute to the cooling of the urban matrix during heat wave episodes. Those small green spaces distributed throughout the city, defined as “Other” areas, showed stronger negative correlation. These spaces are particularly relevant for Mediterranean cities, where highly limited space in city centers hinders the possibility of having larger-surface UGI elements. The study highlights the need for further research into the
 composition of those small public green spaces to understand how their components enhance the city’s cooling capacity given the climate conditions and water scarcity in the Mediterranean region.
-- *Lesson learned*:
-
+- *Lesson learned*: Four types of green areas are defined in this research: Core (large-sized patches), Node (medium-sized patches), Link ( linear spatial distributions which connect core and node areas with each other), Other (smaller public urban green spaces). Considering all areas, "Other" areas are very important as they are able to strengthen the cooling capacity of cities during heat waves, in fact this area type registers the lowest LST average values. Other areas have a strong cooling capacity against extreme temperatures during heat wave episodes. There is also a negative correlation between NDVI and LST data for the "Other" area type per episode. Hence, "Other" area type can help Mediterranean city during heat waves: for this reason, it is important to identify the composition of these small public green spaces and to  understand how their components contribute to the city´s cooling capacity enhancement
 
 ### Heat waves and adaptation strategies in a mediterranean urban context
 - *Authors*: Giuseppe Maggiotto, Alessandro Miani, Emanuele Rizzo, Maria Domenica Castellone, Prisco Piscitelli
