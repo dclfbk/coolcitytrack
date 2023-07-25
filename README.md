@@ -10,4 +10,4 @@ Furthermore, COOLCITY-TRACK assesses the city's resilience to future climate cha
 
 By offering a comprehensive assessment of urban climatology and personalized mitigation measures, COOLCITY-TRACK aims to help cities become more resilient, sustainable, and comfortable, providing a better quality of life for their citizens in the face of global climate challenges.
 
-![](https://raw.githubusercontent.com/DigitalCommonsLab/coolcitytrack/main/images/cool_city_track.png?token=GHSAT0AAAAAABZA3V3DIPMGM3OQKWWHFJRGZF7SIMA)
+![](images/cool_city_track.png?token=GHSAT0AAAAAABZA3V3DIPMGM3OQKWWHFJRGZF7SIMA)
