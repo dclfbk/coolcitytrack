@@ -9,3 +9,5 @@ Based on this information, COOLCITY-TRACK analyzes urban heat islands and propos
 Furthermore, COOLCITY-TRACK assesses the city's resilience to future climate challenges, considering different climate scenarios and potential adaptation measures. This helps urban planners and policymakers make informed decisions on urban planning and resource allocation to enhance the city's ability to withstand the impacts of climate change.
 
 By offering a comprehensive assessment of urban climatology and personalized mitigation measures, COOLCITY-TRACK aims to help cities become more resilient, sustainable, and comfortable, providing a better quality of life for their citizens in the face of global climate challenges.
+
+![](https://raw.githubusercontent.com/DigitalCommonsLab/coolcitytrack/main/images/cool_city_track.png?token=GHSAT0AAAAAABZA3V3DIPMGM3OQKWWHFJRGZF7SIMA)
