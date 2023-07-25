@@ -107,7 +107,7 @@ particularly favorable conditions it may be higher than 68C. An urban cool islan
 - *Lesson learned*:
 
 
-### Cooling Effect of Trees with Different Attributes and Layouts on the Surface Heat Island of Urban Street Canyons in Summer
+### ✅ Cooling Effect of Trees with Different Attributes and Layouts on the Surface Heat Island of Urban Street Canyons in Summer
 - *Authors*: Shaojun Yan, Tailong Zhang, Yu Wu, Chu Lv, Feng Qi, Yangen Chen, Xiaohua Wu and Yamei Shen
 - *Year*: 2023
 - *Abstract*: In recent years, the impact of surface heat islands in urban street canyons has become increasingly apparent. However, the research on the use of trees to mitigate surface heat islands remains limited. To address this gap, this study combines experiments and simulations to analyze the cooling effect of trees on surface temperatures under varying timeframes and layouts in an east–west street canyon. The results reveal that the temperature of the road decreases by 10–15 °C, which is 2–4 times greater than that on the south side. Moreover, at 5:00 p.m. in the afternoon, the cooling effect on the south side is 10.3 °C, which is twice that of the north side. In practical planning and design, the diameter of the tree canopy should be maximized, and trees with leaf-area densities greater than 1.5 m2/m3 should be selected. Additionally, the layout of trees should be optimized to maximize the tree canopy coverage. These findings have important implications for optimizing plant selection and placement in street canyons
