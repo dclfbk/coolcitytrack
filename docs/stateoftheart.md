@@ -113,7 +113,7 @@ particularly favorable conditions it may be higher than 68C. An urban cool islan
 UHTI integrates a) air temperature recorded by local sensors; b) structural microclimatic Envimet fluidodynamic modeling simulations; and c) remotely sensed environmental indicators. UHTI is a reliable representation of thermal criticalities in the city for its inhabitants. A case study on Bologna (Italy) municipality is presented. Moreover, UHTI was calculated and compared with the Urban Thermal Field Variance Index (UTFVI), commonly used for urban climate characterization. Results showed a high degree of correlation (R2 = 0.795) between the two indexes; residual mapping and hot-spot detection indicated that their biggest differences are next to dense urban fabric areas like historical centers and water body areas
 - *Lesson learned*:
 
-### Diurnal Outdoor Thermal Comfort Mapping through Envi-Met Simulations, Remotely Sensed and In Situ Measurements
+### ✅ Diurnal Outdoor Thermal Comfort Mapping through Envi-Met Simulations, Remotely Sensed and In Situ Measurements
 - *Authors*: Edoardo Fiorillo , Lorenzo Brilli , Federico Carotenuto, Letizia Cremonini, Beniamino Gioli , Tommaso Giordano and Marianna Nardino
 - *Year*: 2023
 - *Abstract*: Physiological equivalent temperature (PET) is one of most used indices for outdoor human well-being evaluation; its determination is particularly helpful for adaptation strategies in built-up areas affected by the urban heat island (UHI) phenomenon. In this work, we presented a methodology to compute spatially and temporally resolved PET values during a heatwave at the city level, based on a combination of satellite products, in situ measurements and Envi-met model runs upscaled from
