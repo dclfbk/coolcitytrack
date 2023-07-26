@@ -107,6 +107,13 @@ particularly favorable conditions it may be higher than 68C. An urban cool islan
 - *Lesson learned*: Trees are very important for cooling the urban canyon surface, in particular, the best cooling effect is between 1.00 pm and 3.00 pm.. Layout of trees and their crown size are factors involved in the cooling effect: in fact, as the volume of the canopy increases, the cooling effect increases; additionally, LAI(leaf-area index) and LAD(leaf-area density) are crucial factors because they could lower surface temperature (LAD should be greater than 1.5 m2/m3). Moreover, when the crowns of trees overlap the cooling effect is the best, hence it may be useful to have trees closer together (this way there will also be more trees). 
 
 
+### Diurnal Outdoor Thermal Comfort Mapping through Envi-Met Simulations, Remotely Sensed and In Situ Measurements
+- *Authors*: Edoardo Fiorillo , Lorenzo Brilli , Federico Carotenuto, Letizia Cremonini, Beniamino Gioli , Tommaso Giordano and Marianna Nardino
+- *Year*: 2023
+- *Abstract*: Physiological equivalent temperature (PET) is one of most used indices for outdoor human well-being evaluation; its determination is particularly helpful for adaptation strategies in built-up areas affected by the urban heat island (UHI) phenomenon. In this work, we presented a methodology to compute spatially and temporally resolved PET values during a heatwave at the city level, based on a combination of satellite products, in situ measurements and Envi-met model runs upscaled from
+specific test areas to the broader city. The method exploits the ECOSTRESS sensor to detect surface thermal patterns at different diurnal times by developing an hourly based index called hUHTI (hourly urban heatwave thermal index) that serves as a proxy. A case study on Prato (Italy) municipality during the 2021 summer heatwave events is presented. Based on the available satellite products, a set of six hourly diurnal PET maps at 10 m spatial resolution were derived and daytime outdoor thermal patterns and trends were investigated according to land cover. hUHTI index resulted a more suitable tool as PET proxy compared to the sole ECOSTRESS land surface temperature (LST)
+product, especially for morning and evening times. Hourly PET maps were summarized by the use of an average exceedance map providing public administrations and stakeholders a synthetic tool for urban regeneration purposes at city scale.
+- *Lesson learned*:
 
 ### Estimating the Cooling Effect of Pocket Green Space in High Density Urban Areas in Shanghai, China
 - *Authors*: Caiyan Wu, Junxiang Li, Chunfang Wang , Conghe Song , Dagmar Haase, Jürgen Breuste 6 and Maros Finka 
