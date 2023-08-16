@@ -158,7 +158,7 @@ summer and winter by considering their morphological and spatial characteristics
 - *Lesson learned*:
 
 
-### Recommendations for measures to reduce urban heat islands and validating the effectiveness of the measures with an IoT measurement network in cities 
+### ✅ Recommendations for measures to reduce urban heat islands and validating the effectiveness of the measures with an IoT measurement network in cities 
 - *Authors*: meteoblue
 - *Year*: 2022
 - *Abstract*: This project provides recommendations for measures to reduce the urban heat islands effect, which form a basis for city decision makers to implement climate change measures with the best possible cost/benefit ratio. The meteoblue city climate monitoring system is divided into 4 modules and is limited to 3 years. However, the system is designed in such a way that the services developed for the city can be continued sustainably after the end of the three-year project period.
