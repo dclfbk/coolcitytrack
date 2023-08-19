@@ -5,5 +5,5 @@
 
 
 ### ECOSTRESS
-- *Link*: https://ecostress.jpl.nasa.gov/gmap/eco_map2
+- *Link*: https://ecostress.jpl.nasa.gov/gmap/eco_map2 and https://e4ftl01.cr.usgs.gov/ECOSTRESS/ECO1BGEO.001/
 - *Description*: Find a land surface temperature image on the ECOSTRESS gmap search
