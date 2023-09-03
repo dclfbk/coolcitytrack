@@ -2,7 +2,7 @@
 
 ## 1. Introduction
   - Heat waves
-  - Urban Heat and Cool Island Effect
+  - Urban Heat and Cool Island 
   - Urban Heat Island Mitigation
 
 ## 2. Aim of the Study
