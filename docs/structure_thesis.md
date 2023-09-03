@@ -5,15 +5,18 @@
   - Urban Heat and Cool Island Effect
   - Urban Heat Island Mitigation
 
+## 2. Aim of the Study
 
-## 2. Data 
+## 3. Data 
   - Study Area: Municipality of Bologna, Italy
   - Meteorological data
   - ECOSTRESS data
   - Meteoblue data
   - DBSN data
 
-## 3. Analysis of Urban Heat and Cool Island
+
+
+## 4. Analysis of Urban Heat and Cool Island
   - Data Processing
   - Historical Analysis of Urban Heat and Cool Islands: from 2018 to 2023
   - Landscape Evaluation
@@ -21,9 +24,9 @@
     - Climate Shelders
     - Green Paths
       
-## 4. Result and Discussion
+## 5. Result and Discussion
 
-## 5. Conclusion
+## 6. Conclusion
 
 
 
