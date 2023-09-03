@@ -15,7 +15,7 @@
 
 ## 3. Analysis of Urban Heat and Cool Island
   - Data Processing
-  - Historical Analysis of Urban Heat and Cold Islands: from 2018 to 2023
+  - Historical Analysis of Urban Heat and Cool Islands: from 2018 to 2023
   - Land Analysis: Possible Improvements 
     - Climate Shelders
     - Green Paths
