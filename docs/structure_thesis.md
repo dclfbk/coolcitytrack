@@ -24,7 +24,7 @@
     - Climate Shelders
     - Green Paths
       
-## 5. Result and Discussion
+## 5. Results and Discussion
 
 ## 6. Conclusion
 
