@@ -7,7 +7,9 @@
 
 ## 2. Aim of the Study
 
-## 3. Data 
+## 3. Methodology
+
+## 4. Data 
   - Study Area: Municipality of Bologna, Italy
   - Meteorological data
   - ECOSTRESS data
@@ -16,7 +18,7 @@
 
 
 
-## 4. Analysis of Urban Heat and Cool Island
+## 5. Analysis of Urban Heat and Cool Island
   - Data Processing
   - Historical Analysis of Urban Heat and Cool Islands: from 2018 to 2023
   - Landscape Evaluation
@@ -24,9 +26,12 @@
     - Climate Shelders
     - Green Paths
       
-## 5. Results and Discussion
+## 6. Results and Discussion
 
-## 6. Conclusion
+## 7. Conclusion
+
+## 8. References
+
 
 
 
