@@ -1,11 +1,11 @@
 ## Fragility
 According to the study 'La fragilità demografica, sociale ed economica nelle aree statistiche del comune di Bologna' (2022),  analysis of fragility is divided into three areas: demographic, social and economic. Several indicators are used to calculate each of them, namely:
-1. Indicators for situations of potential **demographic fragility**:
+- Indicators for situations of potential **demographic fragility**:
   - percentage change in resident population from 1/1/2017 to 12/31/2021
   - average annual natural balance over the five-year period 2017 - 2021
   - percentage of resident population aged 80 and over as of 12/31/2021
     
-2. Indicators for situations of potential **social fragility**:
+- Indicators for situations of potential **social fragility**:
   - Percentage of the population aged 65 and over living alone as of 12/31/2021
   - Exchange of the Italian population between 20 and 64 years old (immigrants + emigrants related to the average population in the
 five-year period 2017 - 2021)
@@ -21,8 +21,8 @@ as of 12/31/2021
   - BIL (composite indicator of Low Labor Intensity) as of 31/12/2021
   - BQE (Composite Inidcator of Low Housing Quaity) as of 31/12/2021
 
-3. Indicators for situations of potential **economic fragility**:
-   - Percentage of renter-occupied dwellings at the 2011 Census
+- Indicators for situations of potential **economic fragility**:
+  - Percentage of renter-occupied dwellings at the 2011 Census
   - Median per capita equivalent income of resident households - Fiscal year 2020
   - Percentage of households with a 2020 median per capita equivalent income of less than €12,853 (equal to 60% of the median)
  
