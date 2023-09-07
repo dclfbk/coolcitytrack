@@ -4,4 +4,5 @@ According to the study 'La fragilità demografica, sociale ed economica nelle ar
   - percentage change in resident population from 1/1/2017 to 12/31/2021
   - average annual natural balance over the five-year period 2017 - 2021
   - percentage of resident population aged 80 and over as of 12/31/2021
-- Indicators for situation of potential **social fragility**:
+    
+- Indicators for situations of potential **social fragility**:
