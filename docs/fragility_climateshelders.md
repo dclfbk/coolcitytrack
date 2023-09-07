@@ -25,4 +25,6 @@ as of 12/31/2021
   - Percentage of renter-occupied dwellings at the 2011 Census
   - Median per capita equivalent income of resident households - Fiscal year 2020
   - Percentage of households with a 2020 median per capita equivalent income of less than €12,853 (equal to 60% of the median)
+
+The overall indicator of **potential fragility** was calculated as a weighted average of the three scope indicators (demographic, social, economic), giving greater weight to the social scope.
  
