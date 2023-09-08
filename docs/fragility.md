@@ -30,6 +30,7 @@ With the intention of bringing attention to the current climate situation, a fou
 - Percentage of heat island
 - Number of green nature-based solutions (such as public parks,  urban forests, street trees ... )
 - Number of blue nature-based solutions (ponds, lakes, rivers...)
+- Climate shelters score (if any)
 
 
 The new indicator of **potential fragility** will be calculated as a weighted average of the four scope indicators (demographic, social, economic, climatic), giving greater weight to the social scope.
