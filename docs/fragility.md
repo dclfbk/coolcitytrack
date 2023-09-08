@@ -26,5 +26,12 @@ as of 12/31/2021
   - Median per capita equivalent income of resident households - Fiscal year 2020
   - Percentage of households with a 2020 median per capita equivalent income of less than €12,853 (equal to 60% of the median)
 
-The overall indicator of **potential fragility** was calculated as a weighted average of the three scope indicators (demographic, social, economic), giving greater weight to the social scope.
+With the intention of bringing attention to the current climate situation, a fourth indicator could be added to those previously defined: indicators for situations of potential **climatic fragility**:
+- Percentage of heat island
+- Number of green nature-based solutions (such as public parks,  urban forests, street trees ... )
+- Number of blue nature-based solutions (ponds, lakes, rivers...)
+
+
+The new indicator of **potential fragility** will be calculated as a weighted average of the four scope indicators (demographic, social, economic, climatic), giving greater weight to the social scope.
+
  
