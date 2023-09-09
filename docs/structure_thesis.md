@@ -18,7 +18,7 @@
   - DBSN and OpenStreetMap data
 
 
-## 5. Analysis of the relationship between fragility and climate shelters
+## 5. Analysis of the fragility - climate shelters relationship
   - Climate Shelter Indicator
   - A new Indicator of Fragility: Inclusion of Climatic Fragility
     - Definition of Climatic Fragility
