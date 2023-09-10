@@ -6,4 +6,4 @@ A climate shelter should have these characteristics:
 - Easily accessible (including by people with reduced mobility)
 - Presence of at least one drinking fountain
 - Presence of a rest area with banches or picnic tables
-- Presence of water (?)
+- Presence of water (NDWI ?)
