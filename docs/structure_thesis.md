@@ -25,7 +25,6 @@
     - Identification of more Fragile Statistical Areas
   - Fragility and Socio-Demographic Aspects
   - Fragility and Heat Island
-  - Climate Forecast and Future High-Risk Areas
   - Possible Improvements
     - Prioritization of Possible Changes to Improve Climate Shelters
     - Indicator of Fragility after the Improvement of Climate Shelters
