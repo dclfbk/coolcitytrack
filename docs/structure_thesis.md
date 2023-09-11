@@ -19,7 +19,7 @@
 
 
 ## 5. Analysis of the fragility - climate shelters relationship
-  - Climate Shelter Indicator
+  - Climate Shelter Index
   - A new Indicator of Fragility: Inclusion of Climatic Fragility
     - Definition of Climatic Fragility
     - Identification of more Fragile Statistical Areas
