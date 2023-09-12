@@ -1,4 +1,4 @@
-# Investigating and finding possible solutions related to fragility - climate shelters relationship in the city of Bologna
+# Investigating the fragility-climate shelters relationship in the city of Bologna: an analysis to find possible solutions
 
 ## 1. Introduction
   - The Concept of Fragility
