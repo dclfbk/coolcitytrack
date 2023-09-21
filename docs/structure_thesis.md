@@ -1,7 +1,7 @@
 # Investigating the fragility-climate shelters relationship in the city of Bologna: an analysis to find possible solutions
 
 ## 1. Introduction
-  - The Concept of Fragility
+  - The Fragility Map
   - Heat waves and Urban Heat Island
   - Urban Heat Island Mitigation
 
@@ -13,7 +13,6 @@
   - Study Area: Municipality of Bologna, Italy
     - Statistical areas of Bologna
     - Socio-Demographic data
-  - ECOSTRESS data
   - Meteoblue data
   - DBSN and OpenStreetMap data
 
