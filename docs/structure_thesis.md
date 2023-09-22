@@ -2,8 +2,8 @@
 
 ## 1. Introduction
   - The Fragility Map
-  - Heat waves and Urban Heat Island
-  - Urban Heat Island Mitigation
+  - Heat waves and Heat Island
+  - Heat Island Mitigation
 
 ## 2. Aim of the Study
 
