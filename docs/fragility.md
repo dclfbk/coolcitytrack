@@ -28,8 +28,8 @@ as of 12/31/2021
 
 With the intention of bringing attention to the current climate situation, a fourth indicator could be added to those previously defined: indicators for situations of potential **climatic fragility**:
 - Percentage of heat island
-- Number of green nature-based solutions (such as public parks,  urban forests, street trees ... )
-- Number of blue nature-based solutions (ponds, lakes, rivers...)
+- Percentage of green nature-based solutions (such as public parks,  urban forests, street trees ... )
+- Percentage of blue nature-based solutions (ponds, lakes, rivers...)
 - Climate shelters score (if any)
 
 
