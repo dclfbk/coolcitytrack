@@ -22,7 +22,7 @@
   - A new Indicator of Fragility: Inclusion of Climatic Fragility
     - Definition of Climatic Fragility
     - Identification of more Fragile Statistical Areas
-  - Fragility and Socio-Demographic Aspects
+  - Climatic Fragility and Socio-Demographic Aspects
   - Fragility and Heat Island
   - Possible Improvements
     - Prioritization of Possible Changes to Improve Climate Shelters
