@@ -28,23 +28,20 @@
 
 
 
-## 5. Analysis of the fragility - climate shelters relationship
-  - Climate Shelter Index
-  - A new Indicator of Fragility: Inclusion of Climatic Fragility
-    - Definition of Climatic Fragility
-    - Identification of more Fragile Statistical Areas
-  - Climatic Fragility and Socio-Demographic Aspects
-  - Fragility and Heat Island
-  - Possible Improvements
-    - Prioritization of Possible Changes to Improve Climate Shelters
-    - Indicator of Fragility after the Improvement of Climate Shelters
+## 5.	ANALYSIS OF THE FRAGILITY – CLIMATE SHELTERS RELATIONSHIP	
+- CLIMATE FRAGILITY AND SOCIO-DEMOGRAPHIC ASPECTS	
+- FRAGILITY AND HEAT ISLAND	
+- POSSIBLE IMPROVEMENTS
+  - PRIORITIZATION OF POSSIBLE CHANGES TO IMPROVE CLIMATE SHELDERS
+  - INDICATOR OF FRAGILITY AFTER THE IMPROVEMENT OF CLIMATE SHELTERS	
+
       
       
-## 6. Results and Discussion
+## 6. RESULT AND DISCUSSION
 
-## 7. Conclusion
+## 7. CONCLUSION
 
-## 8. References
+## 8. REFERENCES
 
 
 
