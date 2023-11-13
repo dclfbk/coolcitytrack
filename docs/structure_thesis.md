@@ -1,20 +1,31 @@
 # Investigating the fragility-climate shelters relationship in the city of Bologna: an analysis to find possible solutions
 
-## 1. Introduction
-  - The Fragility Map
-  - Heat waves and Heat Island
-  - Heat Island Mitigation
+## 1. INTRODUCTION
+- THE FRAGILITY MAP	
+-	HEAT WEAVES AND HEAT ISLAND	
+-	HEAT ISLAND MITIGATION	
 
-## 2. Aim of the Study
 
-## 3. Methodology
+## 2. AIM OF THE STUDY 
 
-## 4. Data 
-  - Study Area: Municipality of Bologna, Italy
-    - Statistical areas of Bologna
-    - Socio-Demographic data
-  - Meteoblue data
-  - DBSN and OpenStreetMap data
+## 3. DATA 
+- STUDY AREA: MUNICIPALITY OF BOLOGNA, ITALY	
+  - STATISTICAL AREAS OF BOLOGNA	
+  - SOCIO-DEMOGRAPHIC DATA	
+- AIR TEMPERATURE DATA
+- OTHER DATA
+  - OPEN DATA COMUNE DI BOLOGNA
+  - DBSN
+  - OPENSTREETMAP	
+
+## 4. METHODOLOGY
+- CLIMATE SHELTERS INDEX	
+  - A NEW INDICATOR OF FRAGILITY: INCLUSION OF CLIMATE FRAGILITY	
+  - CLIMATE FRAGILITY	
+      - URBAN HEAT ISLAND	
+      - INDICATOR OF POTENTIAL CLIMATE FRAGILITY	
+  - IDENTIFICATION OF MORE FRAGILE STATISTICAL AREAS	
+
 
 
 ## 5. Analysis of the fragility - climate shelters relationship
